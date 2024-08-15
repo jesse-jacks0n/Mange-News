@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "877802626295",
+    "firebase_url": "https://news-96050-default-rtdb.firebaseio.com",
+    "project_id": "news-96050",
+    "storage_bucket": "news-96050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877802626295:android:82f75ce4eae298105e87f2",
+        "android_client_info": {
+          "package_name": "com.devsoft.news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR3YEFAzzzamlFXNpo8oYxkhyVY-AEQCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
